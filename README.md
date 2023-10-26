@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @yossarianjakal
-- 👀 I’m interested in GIS policy  and environmental sciemnce
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Surf predictions 
-- 📫 How to reach me
+- Kia ora, I am Jack Williams
+- Studying towards Msc in geophysics
+- Bcom / Bsci
+- Interest in data science and modelling
+- Know R and Python looking to learn more
+- Gis tutor 
 
 <!---
 yossarianjakal/yossarianjakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
