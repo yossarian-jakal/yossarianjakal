@@ -1,6 +1,6 @@
 - Kia ora, I am Jack Williams
-- Studying towards Msc in geophysics
-- Bcom / Bsci
+- Studying towards Msc in Climate data scioence / Geophysics
+- Geospatial Analyst 
 - Interest in data science and modelling
 - Know R and Python looking to learn more
 - Gis tutor 
